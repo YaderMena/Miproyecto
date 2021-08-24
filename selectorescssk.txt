@@ -1,0 +1,8 @@
+selector css
+
+Universal-
+de tipo-
+ID-
+por atributo-
+descendiente-
+pseudo-clases-

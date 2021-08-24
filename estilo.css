@@ -1,0 +1,35 @@
+h3 {
+	color: blue;
+}
+
+.titulo-h2 {
+	color: 	#CD5C5C;
+}
+
+#id-modify{
+	color: #008080;
+}
+
+[vista="yes"] {
+	color: #4682B4 ;
+}
+
+ul {
+	color: #4B0082;
+}
+
+#id-2{
+	color: #008080;
+}
+
+h4 span {
+	color: #C71585;
+}
+
+p b span {
+	color: #191970;
+}
+
+h4 b:hover{
+	color: #DC143C;
+}
